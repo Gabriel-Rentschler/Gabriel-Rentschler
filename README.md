@@ -6,7 +6,7 @@ Making python exploits; <br>
 Reverse engineering programs; <br>
 game dev hobbyist; <br>
 
-<script src="https://tryhackme.com/badge/75780"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/madiness.png" alt="TryHackMe">
 
 - I’m currently working on C# software development
 - I’m currently learning Information System and Cybersecurity;
