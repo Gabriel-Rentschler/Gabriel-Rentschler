@@ -1,3 +1,5 @@
+<h1>Gabriel Rentschler de Araujo</h1>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/madiness.png" alt="TryHackMe">
 
 - 🔭 I’m currently working on ...
