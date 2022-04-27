@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Gabriel-Rentschler/Gabriel-Rentschler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img src="https://tryhackme-badges.s3.amazonaws.com/madiness.png" alt="TryHackMe">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
