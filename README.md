@@ -4,7 +4,7 @@ Information System Student; <br>
 C#, C++, Java, Ruby Developer; <br>
 Making python exploits; <br>
 Reverse engineering programs; <br>
-game dev hobbyist; <br>
+game dev in Unity; <br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/madiness.png" alt="TryHackMe">
 
