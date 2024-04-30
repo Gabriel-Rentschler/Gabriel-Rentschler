@@ -8,5 +8,6 @@ game dev in Unity; <br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/madiness.png" alt="TryHackMe">
 
-- I’m currently working on ASP.NET software development
+- Currently studying React;
+- I’m currently working on ASP.NET software development;
 - I’m currently learning Information System and Cybersecurity;
